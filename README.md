@@ -1,2 +1,2 @@
 # AliceBase
-A OLTP Database
+An OLTP Database
